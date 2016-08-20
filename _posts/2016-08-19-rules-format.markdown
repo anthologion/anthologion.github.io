@@ -14,6 +14,7 @@ translation: holy-myrrhbearers
 priest: yes
 deacon: no
 reader: yes
+choir: no
 default-speaker: reader
 ---
 ## The Usual Begining
