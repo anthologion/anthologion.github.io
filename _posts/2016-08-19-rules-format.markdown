@@ -18,7 +18,7 @@ choir: no
 default-speaker: reader
 ---
 ## The Usual Begining
-{$ eoc.common.throughtheprayers spkr:reader $} Amen.
+{{ eoc.common.throughtheprayers spkr:reader }} Amen.
 {$ eoc.common.glorryto $}
 {$ eoc.common.heavenlyking $}
 {$ eoc.common.holygod rep:3 $}
