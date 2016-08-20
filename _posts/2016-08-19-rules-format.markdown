@@ -4,11 +4,11 @@ title:  "Rules File Format Idea"
 date:   2016-08-19
 categories: specification
 ---
-Idea for how to 
+Idea for how to format liturigcal services/rules.
 
 {% highlight markdown %}
 ---
-name: The Usual Begining 
+name: theusual
 language: english
 translation: holy-myrrhbearers
 ---
