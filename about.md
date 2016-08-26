@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the development blog for the
+[Athologion Litugical Project](https://anthologion.faith). The aim of
+this project it to provide a system that can be used to share liturgical texts
+of various Christian denominations or other faiths.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+The maintainer of this project is an
+[Eastern Orthodox](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church),
+so initial tasks will focus on those texts which are most useful and
+interesting to him.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The production site is [https://anthologion.faith]
+
