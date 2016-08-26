@@ -14,5 +14,5 @@ The maintainer of this project is an
 so initial tasks will focus on those texts which are most useful and
 interesting to him.
 
-The production site is [https://anthologion.faith]
+The production site is [https://anthologion.faith](https://anthologion.faith)
 

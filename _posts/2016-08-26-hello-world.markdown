@@ -33,7 +33,7 @@ project has the driver code.
 
 I have purchased the domains `anthologion.faith` and `anthologion.org` for this
 project. The development server is available sometimes at 
-[http://www.anthologion.faith/]
+[http://www.anthologion.faith/](http://www.anthologion.faith/)
 
 ## Up next
 
