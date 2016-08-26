@@ -9,7 +9,7 @@
 title: Anthologion Devlog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  The one stop shop for liturgical texts...some day
+    [Anthologion](https://anthologion.faith/): The one stop shop for liturgical texts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anthologion.github.io/" # the base hostname & protocol for your site
 twitter_username: 
